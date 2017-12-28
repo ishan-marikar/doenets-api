@@ -1,0 +1,12 @@
+{
+  "name": "doenets-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.17.1"
+  },
+  "keywords": ["exam", "sri lanka", "doenets"],
+  "repository": "git@github.com:ishan-marikar/doenets-api.git",
+  "author": "Ishan Marikar <hello@imarikar.com>"
+}
