@@ -1,5 +1,7 @@
 # doenets-api
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ishan-marikar/doenets-api.svg)](https://greenkeeper.io/)
+
 A small library that works as a wrapper to the API that is used behind the DOENETS app. I was curious of a way to parse the results in a more machine-readable format for a weird little side project I was planning on doing and created this to facilitate it.
 
 I do believe in having an open-data initiative and find no harm in having this released, but if you think it does, do let me know. Having data accessible this way allows people to represent them in newer, creative and more meaningful ways.
